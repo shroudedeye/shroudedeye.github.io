@@ -1,0 +1,10 @@
+body{
+	background-color: black;
+	overflow-x: hidden;
+	text-align: center;
+	overflow-y: hidden;
+}
+p{
+	text-align: center;
+	font-family: monospace;
+}
